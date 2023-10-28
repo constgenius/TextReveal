@@ -4,6 +4,6 @@ Create an engaging user experience with an eye-catching text reveal on image hov
 
 Youtube Tutorial Link: https://youtu.be/8AaZDxA9t-M
 
-Live Preview: https://constgenius.github.io/TextReveal/
+Live Preview: https://textreveal.vercel.app/
 
 ![Text Reveal](images/TextReveal.png)
